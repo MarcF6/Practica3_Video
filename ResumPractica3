@@ -2,7 +2,9 @@ A la pràctica 3 pujo simplement el script python on hi ha els exercicis.
 L'exercici 1 que sería per terminal, són les mateixes líneas que faig servir pel 2
 Per altra banda, tal com dic en el scrip l'exercici 3 no m'acaba de funcionar perque no aconsegueixo guardar en una variable, únicament el nom del codec. Tot i així si es pogués fer després s'haurien de crear diferents llistes per comparar els valors amb els possibles codecs d'audio i video.
 
-Per últim, no he acabat d'entendre que s'havia de fer en l'exercici 4. En el meu cas, he fet que l'usuari introdueixi un codec d'audio i un de video i llavors per pantalla es mostri tots els broadcasters que són possibles amb aquelles codecs. 
+No he acabat d'entendre que s'havia de fer en l'exercici 4. En el meu cas, he fet que l'usuari introdueixi un codec d'audio i un de video i llavors per pantalla es mostri tots els broadcasters que són possibles amb aquelles codecs. 
+
+Per últim, a l'exercici 5 d'implementar-ho en una classe, no sabia massa exactament que s'havia de posar dins la classe. Aleshores el que he fet és crear una classe "Video" on guardava les variables que més utilitzava. Tot i així no li he acabat de trobar massa útilitat en aquest cas en particular... Però sempre està bé coneixer com funcionen les classes ja que amb Python ho tenia una mica oblidat :)
 
 
 PD: També pujo l'arxiu dels subtitols
